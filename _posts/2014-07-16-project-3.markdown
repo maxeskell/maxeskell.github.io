@@ -6,10 +6,11 @@ modal-id: 3
 date: 2017-07-01
 img: project3.jpg
 thumbnail: project3-thumbnail.jpg
-alt: image-alt
+alt: Wildside app image
 project-date: July 2017
 client: General Assembly
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+link: https://wildside-walks.herokuapp.com/
+description: This website was a group project.  We set out with the objective of allowing anyone to easily find walks near them.  Existing website has poor user interfaces and poor directions, so we used Google Maps to allow people to easily find walks near them, and easily follow walks or even create their own walks.
 
 ---

@@ -7,9 +7,10 @@ date: 2017-06-20
 img: project2.jpg
 thumbnail: project2-thumbnail.jpg
 alt: image-alt
-project-date: May 2017
+project-date: June 2017
 client: General Assembly
 category: Web Development
-description: A REST app to allow people to find, record and share wildlife near them.
+link: https://mysterious-journey-82229.herokuapp.com/
+description: I built this website as I was frustrated that there was no single place where I could see what wildlife surrounded me.  I love walking with my family, and like showing my daughter different wildlife.  I create this app, to showcase a simple JS/MongoDB which allows people to record wildlife near them.  People who register can upload images and record where they took them and what they saw.  I have also incorporated Google Vision, which automatically scans each image and tells the user what is in the image.
 
 ---

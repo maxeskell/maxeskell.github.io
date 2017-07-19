@@ -1,15 +1,16 @@
 ---
-title: Wack a beaver
+title: Wack-a-beaver
 subtitle: A basic JavaScript game for my daughter
 layout: default
 modal-id: 1
-date: 2017-06-20
-img: project2.jpg
-thumbnail: project2-thumbnail.jpg
-alt: image-alt
-project-date: June 2017
+date: 2017-05-20
+img: project1.jpg
+thumbnail: project1-thumbnail.jpg
+alt: Wack-a-beaver image
+project-date: May 2017
 client: General Assembly
 category: Web Development
-description: I developed this game to demonstrate my understanding of JavaScript, and to allow my daughter to play.
+link: https://arcane-garden-18883.herokuapp.com/
+description: I developed this game to demonstrate my understanding of JavaScript.  I chose a simple wack-a-mole type game so that my 2-year old daughter could play it.  With the basic game constructed, I focused on capturing data from the user actions, to give the user feedback on how they were doing and to create competition between players.
 
 ---

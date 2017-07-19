@@ -3,11 +3,11 @@ title: Wack a beaver
 subtitle: A basic JavaScript game for my daughter
 layout: default
 modal-id: 1
-date: 2017-05-20
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+date: 2017-06-20
+img: project2.jpg
+thumbnail: project2-thumbnail.jpg
 alt: image-alt
-project-date: April 2014
+project-date: June 2017
 client: General Assembly
 category: Web Development
 description: I developed this game to demonstrate my understanding of JavaScript, and to allow my daughter to play.

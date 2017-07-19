@@ -4,8 +4,8 @@ subtitle: A REST website to allow anyone to find, record and share wildlife near
 layout: default
 modal-id: 2
 date: 2017-06-20
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: project2.jpg
+thumbnail: project2-thumbnail.jpg
 alt: image-alt
 project-date: May 2017
 client: General Assembly

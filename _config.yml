@@ -2,9 +2,9 @@ url: https://maxeskell.github.io/
 baseurl: ""
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Max's portfolio
+email: maxeskell@gmail.com
+description: "This website showcases my developer skills and experience."
 
 
 # Team names, titles and social links
@@ -25,9 +25,11 @@ social:
   - title: twitter
     url: http://twitter.com/max_eskell
   - title: stack-overflow
-    url: http://stackoverflow.com/MaxES
+    url: https://stackoverflow.com/users/7963065/maxes
   - title: github
     url: http://github.com/maxeskell
+  - title: linkedin
+    url: https://uk.linkedin.com/in/maxeskell
 
 # Postal address (add as many lines as necessary)
 address:

@@ -1,0 +1,16 @@
+---
+title: incubate
+subtitle: A angular/rails app designed to
+layout: default
+modal-id: 4
+date: 2017-07-30
+img: project4.jpg
+thumbnail: project4-thumbnail.jpg
+alt: incubate
+project-date: August 2017
+client: General Assembly
+category: Web Development
+link: https://incubate.herokuapp.com/ideas
+description: This website was my final project.  I used angularJS front end, and ruby/rails backed end, with a Postgresql database.  The app was inspired by Kickstarter, and is intended to be used by companies to allow them to find and scale their best ideas.
+
+---
